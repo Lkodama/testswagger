@@ -1,2 +1,2 @@
 # testswagger
-Rest Api To test swagger
+Springboot, Springfox to implements swagger api docs
